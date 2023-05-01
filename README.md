@@ -1,3 +1,5 @@
+# react-todo-app
+This is Todo-App made with React JS. 
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -60,11 +62,8 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Made UI/UX of Calculator]**
-- **[Use of Big npm package]**
-- **[Basic Arthematic Operations of Calculator]**
-- **[Ninjas API used to get Quotes]**
-- **[Animated Loader used from NPM packages]**
+
+- **[Setup with Vite for React]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -82,7 +81,7 @@ Browser
 
 ### Setup
 
-git clone https://github.com/Atifzada/Maths-Magician.git
+git clone https://github.com/Atifzada/React_Todo_list.git
 
 cd Maths-Magician
 
